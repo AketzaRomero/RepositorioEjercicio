@@ -1,0 +1,8 @@
+Realiza las siguientes operaciones en el mismo orden
+1 Crea un repositorio local de nombre RepoEjercicio
+2 Crea un archivo index.html con contenido
+3 Crea una carpeta css y dentro una hoja de estilos que ponga el fondo de color azul
+4 Confirma todos los cambios desde la terminal
+5 Registrate en gitlab y crea un repositorio vacio
+6 Utiliza sourcetree para vincular el repositorio remoto de gitlab con el repositorio local
+7 En otra carpeta hacer una copia del repositorio remoto desde la terminal
